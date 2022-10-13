@@ -1,0 +1,26 @@
+body {
+    background-size: cover;
+}
+
+.footer {
+    position: fixed;
+    color: rgb(255, 235, 167);
+    bottom: 0;
+    width: 100%;
+    background-color:rgb(56, 56, 56);
+    line-height: 3;
+    text-align: center;
+}
+
+.heading {
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+}
+
+canvas {
+    border: 2px solid rgb(84, 58, 58);
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px grey;
+}
